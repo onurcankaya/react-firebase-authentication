@@ -8,6 +8,5 @@ const App = () => (
     <Navigation />
   </Router>
 )
-  
 
 export default App
